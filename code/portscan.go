@@ -36,9 +36,7 @@ func main() {
 	addressInput := new(string)
 	startPort := new(int)
 	endPort := new(int)
-
-
-	// DON'T FORGET TO MAKE THIS WITH SWITCH
+	
 
 	key := 0
 	for key != 3 {
